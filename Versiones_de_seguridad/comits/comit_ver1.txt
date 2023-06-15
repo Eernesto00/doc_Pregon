@@ -1,0 +1,4 @@
+"Esta version contiene la pantalla de carga y un ejemplo funcional de boton para cambiar de pagina"
+
+----------Anotaciones------------
+-Los textos de la pantalla de carga carecen de contorno--(solucion en la version () ) 
